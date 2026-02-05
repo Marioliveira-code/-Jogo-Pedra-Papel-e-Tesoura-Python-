@@ -93,3 +93,7 @@ Em caso de empate, ninguém pontua
 📌 Observações
 
 Projeto desenvolvido para fins educacionais, como parte dos estudos em Análise de Dados / Python, com foco em lógica de programação e estruturação de código.
+
+
+Projeto criado por Nanna 💜
+Estudante de Análise de Dados, explorando Python, lógica de programação e Programação Orientada a Objetos.
